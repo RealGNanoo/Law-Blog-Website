@@ -2,50 +2,38 @@
 layout: post
 title: "Artificial Islands and Low-Tide Elevations: The South China Sea Award Ten Years On"
 date: 2026-04-22
-jurisdiction: "Law of the Sea (UNCLOS)"
+jurisdiction: "UNCLOS"
 summary: "Re-examining the 2016 South China Sea Arbitral Award: why engineering sand onto submerged reefs cannot generate territorial sea or exclusive economic zones under UNCLOS Article 121."
 ---
 
-**THE HAGUE** — A decade after the Permanent Court of Arbitration issued its landmark ruling in the *South China Sea Arbitration (The Philippines v. China)*, the tribunal's findings on the legal status of maritime features remain the cornerstone of contested freedom-of-navigation operations.
+**THE HAGUE** — A decade after the Permanent Court of Arbitration issued its award in the *South China Sea Arbitration (The Philippines v. China)*, the tribunal's findings on the legal status of maritime features remain the benchmark for assessing contested claims and freedom-of-navigation operations.
 
-The core legal question continues to govern disputes over artificial installations: **Can massive engineering works transform a submerged reef into a legal island capable of generating maritime zones?**
+The central legal question continues to govern disputes over artificial installations: Can engineering works transform a submerged reef into a legal island capable of generating maritime zones?
 
 ---
 
 ## 1. The Tripartite Categorization Under UNCLOS
 
-UNCLOS establishes a strict maritime hierarchy based entirely on a feature's **natural status at high tide**:
+UNCLOS establishes a maritime hierarchy based on a feature's natural status at high tide:
 
-High Tide Line ───────────────────────────────────────
-                                ▲
-                                │ Naturally above water
-                                ▼
-   ┌────────────────────────────────────────────────────────┐
-   │                Article 121(1): ISLAND                  │
-   │       Generates 12nm Territorial Sea + Contiguous Zone  │
-   └────────────────────────────┬───────────────────────────┘
-                                │
-        ┌───────────────────────┴───────────────────────┐
-        ▼                                               ▼
-Article 121(3) ROCK                           FULL ISLAND STATUS
-
-
-If a feature is submerged at high tide, it constitutes either:
-* **A Low-Tide Elevation (Article 13):** Generates no territorial sea, EEZ, or continental shelf of its own.
-* **Submerged Seabed:** Forms part of the seabed/continental shelf.
+* **Islands (Article 121(1)–(2)):** Naturally formed areas of land surrounded by water and above water at high tide. Under paragraph 2, they generate a 12-nautical-mile territorial sea, a contiguous zone, an exclusive economic zone (EEZ), and a continental shelf.
+* **Rocks (Article 121(3)):** Naturally formed features that cannot sustain human habitation or economic life of their own. They generate a territorial sea and contiguous zone, but neither an EEZ nor a continental shelf.
+* **Low-Tide Elevations (Article 13):** Features surrounded by and above water at low tide but submerged at high tide. They generate no independent maritime zones; they may only serve as baselines for measuring the territorial sea if situated wholly or partly within the territorial sea of the mainland or an island.
+* **Submerged Seabed:** Features below water at both low and high tide form part of the seabed or continental shelf and possess no sovereign maritime zones.
 
 ---
 
-## 2. The Legal Futility of Sand-Dredging: Article 60(8)
+## 2. Artificial Modification and Article 60(8)
 
-The 2016 Arbitral Award established the binding principle that **a feature’s legal status is determined by its natural capacity prior to human intervention**. 
+The 2016 Arbitral Award affirmed that a maritime feature's legal status is determined by its natural physical capacity prior to human intervention.
 
-Dredging millions of tons of sand and pouring concrete to construct runways, deep-water ports, or military barracks on top of a low-tide elevation does not convert it into an island:
-* **Article 60(8) UNCLOS:** *"Artificial islands, installations and structures do not possess the status of islands. They have no territorial sea of their own, and their presence does not affect the delimitation of the territorial sea, the exclusive economic zone or the continental shelf."*
-* **Safety Zones Only:** Coastal states may establish 500-meter safety zones around artificial structures, but cannot assert sovereign 12-nautical-mile territorial waters or intercept international shipping.
+Dredging sand and pouring concrete to construct runways, ports, or military barracks on top of a low-tide elevation does not convert it into an island:
+
+* **Article 60(8) UNCLOS:** Artificial islands, installations, and structures do not possess the status of islands. They have no territorial sea of their own, and their presence does not affect the delimitation of the territorial sea, the exclusive economic zone, or the continental shelf.
+* **Safety Zones:** Coastal states may establish 500-meter safety zones around artificial structures under Article 60(5), but cannot assert a 12-nautical-mile territorial sea or restrict international navigation outside that narrow radius.
 
 ---
 
 ## 3. Systemic Implications
 
-The Arbitral Tribunal's rigorous objective standard prevents coastal states from weaponizing civil engineering to privatize international sea lanes. As naval powers continue to conduct Freedom of Navigation Operations (FONOPs) within 12 nautical miles of converted reefs, the 2016 ruling remains the bedrock legal shield against the unilateral enclosure of the global commons.
+The Arbitral Tribunal's objective standard prevents coastal states from using civil engineering to appropriate international waters. As states conduct freedom of navigation operations within 12 nautical miles of converted low-tide features, the 2016 interpretation continues to define the boundary between sovereign coastal rights and the regime of the high seas.

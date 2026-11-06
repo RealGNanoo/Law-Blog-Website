@@ -2,57 +2,35 @@
 layout: post
 title: "The Expansion of Erga Omnes Partes: How the ICJ Lowered the Standing Threshold for Global Atrocity Claims"
 date: 2026-09-12
-jurisdiction: "ICJ & Adjudication"
+jurisdiction: "ICJ"
 summary: "An analysis of the Court's evolving standing doctrine, examining how non-injured applicant states are weaponizing multilateral conventions to bypass traditional bilateral injury requirements."
 ---
 
-**THE HAGUE** — The International Court of Justice has quietly engineered a doctrinal revolution in international procedural law. 
+**THE HAGUE** — The International Court of Justice has progressively expanded the doctrine of standing under multilateral human rights and humanitarian conventions.
 
-By systematically validating the doctrine of *obligations erga omnes partes*, the Court has transformed what were once unreviewable bilateral disputes into universally justiciable matters. States with zero geographic proximity, direct commercial impact, or national victims can now haul alleged treaty violators before the Great Hall of Justice.
-
----
-
-## The Death of the "Direct Injury" Prerequisite
-
-Traditionally, public international law operated strictly through bilateral reciprocity. Under Article 34 of the ICJ Statute, only states may be parties in cases before the Court, and under customary state responsibility principles (reflected in Article 42 of the ILC Articles on State Responsibility), an applicant state had to demonstrate that it was "specially affected" or suffered direct, quantifiable material harm.
-
-The turning point emerged in *Belgium v. Senegal* (2012) under the Convention Against Torture, where the Court recognized that all state parties share a collective legal interest in compliance. 
-
-That opening was widened into a highway across landmark provisional measures proceedings:
-
-* ***The Gambia v. Myanmar* (2020):** The Gambia, an African nation thousands of miles away, successfully established *prima facie* standing under the 1948 Genocide Convention despite possessing no direct physical connection to the Rakhine State.
-* ***South Africa v. Israel* (2024–2026):** South Africa invoked identical *erga omnes partes* grounds to petition for binding provisional measures, solidifying the premise that preserving peremptory norms (*jus cogens*) grants every signatory an actionable interest.
-
-Classic Bilateral Model (Pre-2012)
-[State A: Wrongdoer] ────► Violates Treaty ────► [State B: Directly Injured]
-(Only State B holds standing to institute proceedings before the Court)
-
-Modern Erga Omnes Partes Regime
-┌──► [State B: Directly Injured]
-│
-[State A: Violates Jus Cogens] ──┼──► [State C: Non-Injured Party] (Holds Legal Standing)
-│
-└──► [State D: Non-Injured Party] (Holds Legal Standing)
+By confirming that state parties may invoke *obligations erga omnes partes*, the Court has allowed states with no geographic proximity, direct injury, or national victims to institute proceedings and seek binding provisional measures against alleged treaty violators.
 
 ---
 
-## The Provisional Measures Standard: Lowering the Evidentiary Bar
+## 1. Standing Beyond Direct Bilateral Injury
 
-The core tactical utility of the *erga omnes partes* expansion lies at the **Provisional Measures** stage under Article 41 of the ICJ Statute. To grant urgent interim relief, the Court does not demand definitive proof on the merits. It merely requires:
+Historically, international adjudication operated primarily on bilateral reciprocity. Under Article 42 of the ILC Articles on State Responsibility (ARSIWA), an applicant state generally had to demonstrate that it was specially affected by an internationally wrongful act to invoke responsibility.
 
-1. **Prima Facie Jurisdiction:** A valid compromissory clause without unreserved opt-outs.
-2. **Plausibility of Rights:** The rights asserted must be plausible within the statutory text.
-3. **Irreparable Prejudice and Urgency:** Real and imminent risk that rights will be permanently extinguished before final judgment.
+The Court broadened this principle in *Questions relating to the Obligation to Prosecute or Extradite (Belgium v. Senegal)* (2012), recognizing that all states parties to the Convention Against Torture share a common legal interest in compliance.
 
-By coupling *erga omnes partes* standing with the relaxed "plausibility" test, the Court has enabled applicant states to secure binding judicial orders that constrain state military operations and foreign policy in real time.
+This precedent has since shaped modern contentious proceedings:
+
+* ***The Gambia v. Myanmar* (2020):** The Gambia instituted proceedings under the 1948 Genocide Convention without alleging direct injury to its own territory or nationals, establishing standing on the common interest of all state parties in the prevention of genocide.
+* ***South Africa v. Israel* (2024–2026):** South Africa relied on identical *erga omnes partes* grounds under Article IX of the Genocide Convention, reinforcing that non-injured states may petition the Court for provisional relief to protect collective convention rights.
 
 ---
 
-## The Legal Horizon: Backlash and Compromissory Reservations
+## 2. Provisional Measures: The Plausibility Standard
 
-The weaponization of *erga omnes partes* is already sparking structural resistance:
+The procedural significance of *erga omnes partes* standing is most pronounced at the provisional measures stage under Article 41 of the ICJ Statute. To grant interim relief, the Court does not adjudicate the merits, requiring only:
 
-* **Treaty Reservation Revisions:** Sovereign states are increasingly scrutinizing compromissory clauses in draft multilateral treaties, inserting stringent bilateral consent conditions or opting out of Article IX-style compulsory ICJ jurisdiction entirely.
-* **The "Public Interest Litigation" Dilemma:** Critics argue the ICJ is morphing into a global constitutional court without the enforcement mechanisms to match, risking severe institutional delegitimization when target states openly flout interim orders.
+1. **Prima Facie Jurisdiction:** A valid compromissory clause without applicable reservations.
+2. **Plausibility of Rights:** The rights asserted on the merits must be plausible.
+3. **Urgency and Irreparable Prejudice:** An imminent risk of irreparable harm to those rights before a final judgment can be rendered.
 
-For international litigators, the takeaway is clear: forum selection is no longer dictated by where the harm occurred, but by which allied state holds a clean, reservation-free link to the underlying convention.
+Coupling common-interest standing with the plausibility standard allows non-injured applicant states to secure binding judicial orders addressing ongoing conflicts while the underlying jurisdictional objections and merits remain pending.

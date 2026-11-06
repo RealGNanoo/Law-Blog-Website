@@ -80,18 +80,6 @@ layout: null
       border-bottom: 1px solid var(--border);
     }
     .hero-editorial { display: flex; flex-direction: column; justify-content: center; padding-right: 1rem; border-right: 1px solid var(--border); }
-    .iln-ticker {
-      font-size: 0.74rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.12em;
-      color: var(--navy-mid);
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      margin-bottom: 1rem;
-    }
-    .iln-ticker::before { content: ""; width: 8px; height: 2px; background: var(--navy-mid); }
     .hero-title { font-family: var(--font-serif); font-size: 2.35rem; line-height: 1.22; font-weight: 700; color: var(--navy-deep); margin-bottom: 1.1rem; }
     .hero-description { font-size: 1.05rem; color: var(--text-muted); line-height: 1.65; font-weight: 400; }
 
@@ -190,7 +178,6 @@ layout: null
 
   <section class="container hero-split">
     <div class="hero-editorial">
-      
       <h1 class="hero-title">Doctrinal jurisprudence, advisory proceedings, and state responsibility under international law.</h1>
       <p class="hero-description">
         Rigorous legal reporting dissecting the ICJ docket, maritime delimitations, international humanitarian law, and global dispute resolution regimes.
@@ -215,14 +202,14 @@ layout: null
 
   <section class="filter-section">
     <div class="container">
-      <div class="section-label">Filter by Forum</div>
+      <div class="section-label">Columns</div>
       <div class="tags-container">
-        <button class="filter-btn active" data-filter="all">All Forums</button>
-        <button class="filter-btn" data-filter="ICJ & Adjudication">ICJ & Adjudication</button>
-        <button class="filter-btn" data-filter="State Responsibility & Sovereignty">State Responsibility & Sovereignty</button>
-        <button class="filter-btn" data-filter="Law of the Sea (UNCLOS)">Law of the Sea (UNCLOS)</button>
-        <button class="filter-btn" data-filter="Armed Conflict & IHL">Armed Conflict & IHL</button>
-        <button class="filter-btn" data-filter="International Trade & Sanctions">International Trade & Sanctions</button>
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="ICJ">ICJ</button>
+        <button class="filter-btn" data-filter="UNCLOS">UNCLOS</button>
+        <button class="filter-btn" data-filter="IHL & Armed Conflict">IHL & Armed Conflict</button>
+        <button class="filter-btn" data-filter="Trade & Investment">Trade & Investment</button>
+        <button class="filter-btn" data-filter="International Relations">International Relations</button>
       </div>
     </div>
   </section>
@@ -247,7 +234,7 @@ layout: null
         </article>
         {% endfor %}
       </div>
-      <div id="empty-state">No recent articles published under this forum.</div>
+      <div id="empty-state">No recent articles published under this column.</div>
     </div>
   </main>
 
